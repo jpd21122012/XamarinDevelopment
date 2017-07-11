@@ -1,0 +1,124 @@
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.pdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.PhoneApp.apk
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.PhoneApp-Signed.apk
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\PhoneApp.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\PhoneApp.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\PhoneApp.pdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\bin\PhoneApp.PhoneApp.apk
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\layout\main.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\values\strings.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\R.cs.flag
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\uploadflags.txt
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-mdpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xhdpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xxhdpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xxxhdpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-hdpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-ldpi\icon.png
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Java.Interop.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Microsoft.CSharp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Mono.Android.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Mono.CSharp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\mscorlib.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Core.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Net.Http.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Xml.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\PhoneApp.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\PhoneApp.dll.config
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\SALLab05.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+c:\users\slipk\documents\visual studio 2017\Projects\Lab05\PhoneApp\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\slipk\Documents\Visual Studio 2017\Projects\Lab05\PhoneApp\bin\Debug\SALLab06.dll
+C:\Users\slipk\Documents\Visual Studio 2017\Projects\Lab05\PhoneApp\obj\Debug\PhoneApp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.dll.config
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.pdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.PhoneApp.apk
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.PhoneApp-Signed.apk
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\PhoneApp.csprojResolveAssemblyReference.cache
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\PhoneApp.dll
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\PhoneApp.pdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\bin\PhoneApp.PhoneApp.apk
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\layout\validate.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\layout\main.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\values\strings.xml
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-mdpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xhdpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xxhdpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-xxxhdpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-hdpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\res\drawable\drawable-ldpi\icon.png
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\R.cs.flag
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\uploadflags.txt
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\PhoneApp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Core.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\PhoneApp.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\slipk\Desktop\Lab05\PhoneApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb

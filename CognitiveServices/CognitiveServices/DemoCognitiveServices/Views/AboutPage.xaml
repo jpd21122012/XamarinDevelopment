@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCognitiveServices.Views.AboutPage"
+             Title="AboutPage">
+  <ScrollView>
+    <StackLayout Padding="10">
+      <Label Text="Demo Cognitive Services" FontSize="40"/>
+            <Label Text="This App is the simplest type of demo."/>
+            <Label Text="In this demo, you will use one of the Microsoft Cognitive Services API's to bring intelligence to a Xamarin cross-platform application."/>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

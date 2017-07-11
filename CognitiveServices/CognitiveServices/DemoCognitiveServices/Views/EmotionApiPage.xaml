@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCognitiveServices.Views.EmotionApiPage"
+             Title="Emotion API">
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button x:Name="TakePictureButton" Text="Take from camera" BackgroundColor="#049580" TextColor="White" Command="{Binding TakeCommand}"/>
+            <Button x:Name="UploadPictureButton" Text="Pick a photo" BackgroundColor="#049580" TextColor="White" Command="{Binding UploadCommand}"/>
+        </StackLayout>
+
+        <ActivityIndicator IsRunning="{Binding IsBusy, Mode=TwoWay}" Color="#049580" HeightRequest="20" HorizontalOptions="FillAndExpand" />
+        <Image x:Name="image" HeightRequest="240" WidthRequest="320" Source="{Binding SourceImage}" />
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Gender: "/>
+                    <Label x:Name="GenderLabel" Text="{Binding Path=EmotionDetection.Gender}" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Age: "/>
+                    <Label x:Name="AgeLabel" Text="{Binding Path=EmotionDetection.Age}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Emotion: "/>
+                    <Label x:Name="EmotionLabel" Text="{Binding Path=EmotionDetection.Emotion}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Smile: "/>
+                    <Label x:Name="SmileLabel" 
+             Text="{Binding EmotionDetection.Smile}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Glasses: "/>
+                    <Label x:Name="GlassesLabel" Text="{Binding Path=EmotionDetection.Glasses}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Beard: "/>
+                    <Label x:Name="BeardLabel" 
+             Text="{Binding Path=EmotionDetection.Beard}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="3">
+                    <Label Text="Moustache: "/>
+                    <Label x:Name="MoustacheLabel" 
+             Text="{Binding Path=EmotionDetection.Moustache}"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>

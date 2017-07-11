@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCognitiveServices.Views.ComputerVisionApiPage"
+             Title="Computer Vision API">
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button x:Name="TakePictureButton" Text="Take from camera" BackgroundColor="#049580" TextColor="White" Command="{Binding TakeCommand}"/>
+            <Button x:Name="UploadPictureButton" Text="Pick a photo" BackgroundColor="#049580" TextColor="White" Command="{Binding UploadCommand}"/>
+        </StackLayout>
+        
+        <ActivityIndicator IsRunning="{Binding IsBusy, Mode=TwoWay}" Color="#049580"
+        VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+        <Image x:Name="image" HeightRequest="240" WidthRequest="320" Source="{Binding SourceImage}" />
+
+        <ScrollView Padding="10">
+
+            <StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Adult content: "/>
+                    <Label Text="{Binding Result.Adult.IsAdultContent}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Racy content: "/>
+                    <Label Text="{Binding Result.Adult.IsRacyContent}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Description: "/>
+                    <Label Text="{Binding Result.Description.Captions[0].Text}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Accent color: "/>
+                    <Label Text="{Binding Result.Color.AccentColor}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Tags: "/>
+                    <ListView ItemsSource="{Binding Result.Tags}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Label Text="{Binding Name}"/>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </StackLayout>
+
+        </ScrollView>
+    </StackLayout>
+</ContentPage>
